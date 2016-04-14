@@ -5,7 +5,7 @@ Radmin is a system for automatic early detection of application-level DoS attack
 
 Fore more details, please refer to: "Radmin: Early Detection of Application-Level Resource Exhaustion and Starvation Attacks," in proceedings of the 18th International Conference on Research in Attacks, Intrusions and Defenses (RAID), 2015, Kyoto Japan.
 
-#### Due to licensing issues, the source code of Radmin is no longer public. Please contact the author(s) for more information.
+#### Due to licensing restrictions and commercial interest, the source code of Radmin is no longer public. Please contact the author(s) for more information.
 
 ```
 @inproceedings{elsabagh:15:raid,
